@@ -1,4 +1,12 @@
 # Dijkstra implementation for Delhi Metro
+This is the our first semester project which we do in accordance to our syllabus in Discrete Mathematics under the guidance of our supportive and helpful teachers
+In this project my team has 4 memebers : 
+- [@Pktiwari12](https://github.com/Pktiwari12)
+- [@Sachin-Yadav2006](https://github.com/Sachin-Yadav2006)
+- [@utkarsh-0026](https://github.com/utkarsh-0026)
+- and me :relaxed:
+
+  
 Dijkstra’s algorithm is a famous technique for finding the shortest path between nodes in a graph. It can be applied to various real-world problems, tofind the optimal route between two points.
 In this project we delves into the application of Dijkstra's Algorithm to enhance the efficiency of metro routing. By leveraging this algorithm, we aim to compute the optimal time andpaths between metro stations, ultimately minimizing travel time and improving the overall metro experience for passengers.
 
@@ -11,7 +19,8 @@ HOW DOES THE ALGOITHM WORK ??
 
 3. The algorithm stops when it reaches the destination node, or when it has visited all the nodes that are reachable from the source. The final tentative distance of the destination node is the shortest distance from the source to the destination. The algorithm can also reconstruct the shortest path by tracing back the nodes that led to the destination
 
+This is the visual representation of the above explaination
 
-![alt text](explaination_image/image.png)
+![alt text](/explaination_images/image.png)
 
-![alt text](explaination_image/image-1.png)
+![alt text](/explaination_images/image-1.png)
