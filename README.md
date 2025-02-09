@@ -4,7 +4,7 @@ In this project my team has 4 memebers :
 - [@Pktiwari12](https://github.com/Pktiwari12)
 - [@Sachin-Yadav2006](https://github.com/Sachin-Yadav2006)
 - [@utkarsh-0026](https://github.com/utkarsh-0026)
-- and me :relaxed:
+- and me
 
   
 Dijkstra’s algorithm is a famous technique for finding the shortest path between nodes in a graph. It can be applied to various real-world problems, tofind the optimal route between two points.
